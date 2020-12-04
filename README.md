@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aazbeltran&show_icons=true&count_private=true" alt="aazbeltran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aazbeltran&show_icons=true&count_private=true" alt="aazbeltran" /></p>
+<p>&nbsp;<a href="https://wakatime.com/@aazbeltran"><img src="https://wakatime.com/share/@aazbeltran/8e13da5f-9c49-41c0-8a90-7fcc261dc9b5.png" /></a></p>
